@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kanna_h0c0yc0/Documents/Unreal Projects/Halo_Combat/Content/Halo_Combat/Blueprints/BP_Spartan.uasset",
+				"C:/Users/kanna_h0c0yc0/Documents/Unreal Projects/Halo_Combat/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZW/0U0UV9GKIOBQWGEWXCL5TN.uasset",
+				"C:/Users/kanna_h0c0yc0/Documents/Unreal Projects/Halo_Combat/Content/Variant_Shooter/Blueprints/BP_ShooterGameMode.uasset",
+				"C:/Users/kanna_h0c0yc0/Documents/Unreal Projects/Halo_Combat/Content/FirstPerson/Lvl_FirstPerson.umap"
+			]
+		}
+	]
+}

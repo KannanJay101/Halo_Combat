@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Halo_Combat",
+			"Path": "..\\Source\\Halo_Combat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Halo_CombatEditor",
+			"Path": "..\\Source\\Halo_CombatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
