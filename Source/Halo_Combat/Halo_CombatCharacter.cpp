@@ -107,14 +107,14 @@ void AHalo_CombatCharacter::DoMove(float Right, float Forward)
 	}
 }
 
-void AHalo_CombatCharacter::DoJumpStart()
-{
-	// pass Jump to the character
-	Jump();
-}
-
-void AHalo_CombatCharacter::DoJumpEnd()
-{
-	// pass StopJumping to the character
-	StopJumping();
-}
+//void AHalo_CombatCharacter::DoJumpStart()
+//{
+//	// pass Jump to the character
+//	Jump();
+//}
+//
+//void AHalo_CombatCharacter::DoJumpEnd()
+//{
+//	// pass StopJumping to the character
+//	StopJumping();
+//}

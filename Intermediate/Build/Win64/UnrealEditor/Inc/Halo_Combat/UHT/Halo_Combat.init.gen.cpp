@@ -29,7 +29,7 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 			SingletonFuncArray,
 			UE_ARRAY_COUNT(SingletonFuncArray),
 			PKG_CompiledIn | 0x00000000,
-			0x51F356A5,
+			0xA1DD2248,
 			0x5F107E24,
 			METADATA_PARAMS(0, nullptr)
 		};
@@ -37,5 +37,5 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 	}
 	return Z_Registration_Info_UPackage__Script_Halo_Combat.OuterSingleton;
 }
-static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Halo_Combat(Z_Construct_UPackage__Script_Halo_Combat, TEXT("/Script/Halo_Combat"), Z_Registration_Info_UPackage__Script_Halo_Combat, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x51F356A5, 0x5F107E24));
+static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Halo_Combat(Z_Construct_UPackage__Script_Halo_Combat, TEXT("/Script/Halo_Combat"), Z_Registration_Info_UPackage__Script_Halo_Combat, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA1DD2248, 0x5F107E24));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
